@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\timphantulonnhatmang2chieu\bin\Debug\timphantulonnhatmang2chieu.exe.config
+C:\Users\tuan\Desktop\timphantulonnhatmang2chieu\bin\Debug\timphantulonnhatmang2chieu.exe
+C:\Users\tuan\Desktop\timphantulonnhatmang2chieu\bin\Debug\timphantulonnhatmang2chieu.pdb
+C:\Users\tuan\Desktop\timphantulonnhatmang2chieu\obj\Debug\timphantulonnhatmang2chieu.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\timphantulonnhatmang2chieu\obj\Debug\timphantulonnhatmang2chieu.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\timphantulonnhatmang2chieu\obj\Debug\timphantulonnhatmang2chieu.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\timphantulonnhatmang2chieu\obj\Debug\timphantulonnhatmang2chieu.exe
+C:\Users\tuan\Desktop\timphantulonnhatmang2chieu\obj\Debug\timphantulonnhatmang2chieu.pdb
